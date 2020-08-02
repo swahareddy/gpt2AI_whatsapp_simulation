@@ -7,18 +7,18 @@ There are 4 versions of the pretrained model. I have used the second largest one
 I won't be describing GPT-2 in detail, instead I'd encourage you to check this out if you are not familiar with it - [https://openai.com/blog/better-language-models/](https://openai.com/blog/better-language-models/)
 
 ## How to use:
-1. Export chats from Whatsapp mobile application
+1. Export chats from Whatsapp mobile application. This will give you a file with a name like `WhatsApp Chat with Sushil Khairnar.txt`
 
 <img src="https://github.com/swahareddy/gpt2AI_whatsapp_simulation/blob/master/readme_images/WhatsApp%20Image%202020-08-02%20at%2011.52.43.jpeg" height="240" width="330"> <img src="https://github.com/swahareddy/gpt2AI_whatsapp_simulation/blob/master/readme_images/WhatsApp%20Image%202020-08-02%20at%2011.52.43%20(1).jpeg" height="240" width="340">
 
 2. Create the following hierarchy in your google drive 
 <img src="https://github.com/swahareddy/gpt2AI_whatsapp_simulation/blob/master/readme_images/gdrive_structure.png" height="240" width="330">
 
-3. Upload the original_chat.txt in your google drive in the folder `Original Chats`
+3. Upload the `original_chat.txt` in your google drive in the folder `Original Chats`
 
 4. Run the jupter notebook on Google colab.
 
-5. Check your output in the `Predicted Chats` folder
+5. Check your output (`gpt2_gentext_sushil_khairnar_20200802_084751.txt`) in the `Predicted Chats` folder
 
 > _I have intentionally cleared outputs of the cells before pushing the notebook to this repository, since both the original and predicted chats should be private. But rest assured, you'll be seeing some really interesting (and probably messed up :P) results._
 

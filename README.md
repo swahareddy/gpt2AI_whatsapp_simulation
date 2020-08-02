@@ -5,10 +5,11 @@ The following steps are for running a Colab notebook, you can also run it locall
 ## Instructions
 1. Export chats from Whatsapp mobile application
 
-<img src="https://github.com/swahareddy/gpt2AI_whatsapp_simulation/blob/master/WhatsApp%20Image%202020-08-02%20at%2011.52.43.jpeg" height="240" width="330"> <img src="https://github.com/swahareddy/gpt2AI_whatsapp_simulation/blob/master/WhatsApp%20Image%202020-08-02%20at%2011.52.43%20(1).jpeg" height="240" width="330">
+<img src="https://github.com/swahareddy/gpt2AI_whatsapp_simulation/blob/master/readme_images/WhatsApp%20Image%202020-08-02%20at%2011.52.43.jpeg" height="240" width="330"> 
+<img src="https://github.com/swahareddy/gpt2AI_whatsapp_simulation/blob/master/readme_images/WhatsApp%20Image%202020-08-02%20at%2011.52.43%20(1).jpeg" height="240" width="330">
 
 2. Create the following hierarchy in your google drive 
-<img src="https://github.com/swahareddy/gpt2AI_whatsapp_simulation/blob/master/gdrive_structure.png" height="240" width="330">
+<img src="https://github.com/swahareddy/gpt2AI_whatsapp_simulation/blob/master/readme_images/gdrive_structure.png" height="240" width="330">
 
 3. Upload the original_chat.txt in your google drive in the folder `Original Chats`
 
